@@ -1,0 +1,1 @@
+import{C as e,l as t,s as n,t as r}from"./_plugin-vue_export-helper-vrF2knUG.js";var i={},a={class:`about`};function o(r,i){return e(),t(`div`,a,[...i[0]||=[n(`br`,null,null,-1),n(`h1`,null,`Dongbang PangPang Game`,-1),n(`br`,null,null,-1),n(`h2`,null,`Written by KTS. 2026.4`,-1)]])}var s=r(i,[[`render`,o]]);export{s as default};
